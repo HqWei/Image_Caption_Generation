@@ -46,3 +46,8 @@ CNN parameters: pre-trained good parameters in the ImageNet dataset
 Training split: one sentence n words -> n-1 group training sequence
 
 Step 2: Fine-tuning CNN parameters, CNN & LSTM training 100K together
+## Demo
+
+Prepare your own pictures and run the following python file：
+
+https://github.com/HqWei/Image_Caption_Generation/blob/master/Image_caption_generation/run_inference.py
