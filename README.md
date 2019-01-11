@@ -21,12 +21,19 @@ MSCOCO:http://cocodataset.org/
 Download mscoco dataset (3 files to /Show_And_Tell/data/mscoco/raw-data path)：
 
 Training set:
+
 http://msvocds.blob.core.windows.net/coco2014/train2014.zip
+
 Evaluation set: 
+
 http://msvocds.blob.core.windows.net/coco2014/val2014.zip
+
 Caption set:
+
 Http://msvocds.blob.core.windows.net/annotations-1-0-3/captions_train-val2014.zip
+
 ## Download the pretrain model of InceptionV3
+
 http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz 
 ## Train 
 Natural Language Toolkit (NLTK) in needed first!  Run the following code to install ：
