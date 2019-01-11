@@ -17,7 +17,9 @@ Paper link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636
       2) a woman standing next to a red fire hydrant (p=0.000021)
  ## Dataset：MSCOCO、Flickr30k、Flickr8k
 MSCOCO:http://cocodataset.org/
+
 Download mscoco dataset (3 files to /Show_And_Tell/data/mscoco/raw-data path)：
+
 Training set:
 http://msvocds.blob.core.windows.net/coco2014/train2014.zip
 Evaluation set: 
